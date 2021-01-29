@@ -1,4 +1,4 @@
-## Personal Resume
+# Personal Resume
 
 ---
 
@@ -22,7 +22,7 @@ P.C.130022
 
 ---
 
-## Project
+# Project
 
 ---
 
