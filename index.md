@@ -1,4 +1,3 @@
-# ElexMagic's Github
 
 ## Personal Resume
 
