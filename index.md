@@ -1,4 +1,3 @@
-
 ## Personal Resume
 
 ---
