@@ -22,12 +22,16 @@ P.C.130022
 
 ---
 
-# Project
+# Research Fields
 
 ---
 
 Printed Circuit Board (PCB) Design
 
 Embedded System Design
+
+Field Oriented Control (FOC)
+
+Artificial Intelligence (AI)
 
 ---
