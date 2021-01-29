@@ -2,9 +2,7 @@
 
 ## Personal Resume
 
-
 ---
-
 
 Chief Technology Officer (CTO)
 
@@ -12,9 +10,7 @@ JLU CONCEPTION ECO-RACING TEAM
 
 E-mail: elexmagic@conception.vip, elexmagic@gmail.com
 
-
 ---
-
 
 Jilin University, Nanling Campus
 
@@ -25,5 +21,15 @@ Changchun, Jilin
 P.R.China
 
 P.C.130022
+
+---
+
+## Project
+
+---
+
+Printed Circuit Board (PCB) Design
+
+Embedded System Design
 
 ---
