@@ -6,7 +6,7 @@ Chief Technology Officer (CTO)
 
 JLU CONCEPTION ECO-RACING TEAM
 
-E-mail: elexmagic@conception.vip, elexmagic@gmail.com
+E-mail: elexmagic@conception.vip
 
 ---
 
