@@ -2,11 +2,17 @@
 
 ---
 
+Undergraduate
+
+Jilin University
+
+State Key Laboratory of Automotive Simulation and Control
+
+---
+
 Chief Technology Officer (CTO)
 
-JLU CONCEPTION ECO-RACING TEAM
-
-E-mail: elexmagic@conception.vip
+JLU Conception Eco-Racing Team
 
 ---
 
@@ -26,12 +32,18 @@ P.C.130022
 
 ---
 
+Tire Dynamic
+
 Printed Circuit Board (PCB) Design
 
 Embedded System Design
 
 Field Oriented Control (FOC)
 
-Artificial Intelligence (AI)
+---
+
+# Contact Information
+
+E-mail: elex.magic@gmail.com
 
 ---
