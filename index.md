@@ -1,16 +1,16 @@
 # Personal Resume
 
----
+----
 
-Undergraduate
+Bachelor of Engineering (pending)
 
 Jilin University
 
-State Key Laboratory of Automotive Simulation and Control
+College of Automotive Engineering
 
 ---
 
-Chief Technology Officer (CTO)
+Electronic Control Technical Director
 
 JLU Conception Eco-Racing Team
 
@@ -32,18 +32,18 @@ P.C.130022
 
 ---
 
-Tire Dynamic
-
-Printed Circuit Board (PCB) Design
-
 Embedded System Design
 
-Field Oriented Control (FOC)
+Circuit and Printed Circuit Board Design
+
+Mechanical Shape and Electronic Design Matching
 
 ---
 
 # Contact Information
 
-E-mail: elex.magic@gmail.com
+---
+
+E-mail: xiaozh1518@mails.jlu.edu.cn
 
 ---
